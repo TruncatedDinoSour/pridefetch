@@ -2,6 +2,9 @@
 Neofetch clone written in Python with the ability to display pride flags
 
 ## Examples
+### Install dependencies
+`python3 -m pip install --upgrade --user -r requirements.txt`
+
 ### Display a trans flag
 `pridefetch -f trans`
 
